@@ -134,7 +134,7 @@ public class Obstaculos {
             nave.setVida(100);
         }
         System.out.println("Ahora tu vida es de: " + nave.getVida());
-    }z
+    }
 
 }
 //N.M.M
